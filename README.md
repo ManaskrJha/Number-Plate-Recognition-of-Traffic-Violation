@@ -34,7 +34,7 @@ To run this project, you need to have the following dependencies installed:
 - EasyOCR: Install EasyOCR using the command `pip install easyocr`.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/example/repo.git`.
+1. Clone the repository: `gh repo clone ManaskrJha/Number-Plate-Recognition-of-Traffic-Violation`.
 2. Navigate to the project directory: `cd repo`.
 3. Place the `numberplate_haarcade.xml` file in the same directory as the script.
 4. Set the `video_path` variable in the script to the path of the input video file.
